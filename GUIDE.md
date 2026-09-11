@@ -9,12 +9,12 @@ Git/terminal chỉ là lựa chọn thêm cho học viên đã quen.
 
 Preflight:
 
-- [ ] Đã mở notebook từ repository nguồn bằng Colab.
-- [ ] Biết cách mở và sửa `REPORT.md` mà notebook tạo sẵn trong panel Files của Colab.
-- [ ] Không đưa ảnh hoặc dữ liệu nhạy cảm vào Colab; tên repository chỉ chứa họ tên và MSSV bắt buộc.
-- [ ] Có quyền lưu tệp vào Google Drive dùng để nộp bài.
-- [ ] Đã tạo repository bài làm từ template và biết thư mục nộp bài là `report/`.
-- [ ] Biết cách giải nén ZIP bằng File Explorer (Windows), Finder (macOS) hoặc Archive Manager (Ubuntu).
+- [X] Đã mở notebook từ repository nguồn bằng Colab.
+- [X] Biết cách mở và sửa `REPORT.md` mà notebook tạo sẵn trong panel Files của Colab.
+- [X] Không đưa ảnh hoặc dữ liệu nhạy cảm vào Colab; tên repository chỉ chứa họ tên và MSSV bắt buộc.
+- [X] Có quyền lưu tệp vào Google Drive dùng để nộp bài.
+- [X] Đã tạo repository bài làm từ template và biết thư mục nộp bài là `report/`.
+- [X] Biết cách giải nén ZIP bằng File Explorer (Windows), Finder (macOS) hoặc Archive Manager (Ubuntu).
 
 ## Quy trình 60 phút
 
