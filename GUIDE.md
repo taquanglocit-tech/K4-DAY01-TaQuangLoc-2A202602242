@@ -109,12 +109,12 @@ quy tắc bảo vệ dữ liệu.
 
 ## Tự kiểm tra
 
-- [ ] Có evidence từ cả ba JSON và đúng `sample_id`.
-- [ ] Có đúng ba PNG trong `day1_lab_outputs/visuals/`.
-- [ ] Phân biệt `prediction`, `ground truth`, `class`, `model score`, `box`, `polygon` và `instance`.
-- [ ] Không coi confidence/model score là điểm chất lượng nhãn.
-- [ ] Nêu ít nhất một lỗi hoặc điểm mơ hồ thực sự quan sát được.
-- [ ] Ghi lại mọi thay đổi về code, checkpoint, threshold và môi trường.
-- [ ] Có `IMAGE_ATTRIBUTION.md` trong output; họ tên/MSSV chỉ nằm ở tên repository, không nằm trong output.
-- [ ] ZIP trong `MyDrive/AI20K-Day1/` mở ra thấy trực tiếp `REPORT.md` và `day1_lab_outputs/`.
-- [ ] Hai mục đó nằm trong `report/`; đã commit, push và nộp link repository trên VLearn.
+- [X] Có evidence từ cả ba JSON và đúng `sample_id`.
+- [X] Có đúng ba PNG trong `day1_lab_outputs/visuals/`.
+- [X] Phân biệt `prediction`, `ground truth`, `class`, `model score`, `box`, `polygon` và `instance`.
+- [X] Không coi confidence/model score là điểm chất lượng nhãn.
+- [X] Nêu ít nhất một lỗi hoặc điểm mơ hồ thực sự quan sát được.
+- [X] Ghi lại mọi thay đổi về code, checkpoint, threshold và môi trường.
+- [X] Có `IMAGE_ATTRIBUTION.md` trong output; họ tên/MSSV chỉ nằm ở tên repository, không nằm trong output.
+- [X] ZIP trong `MyDrive/AI20K-Day1/` mở ra thấy trực tiếp `REPORT.md` và `day1_lab_outputs/`.
+- [X] Hai mục đó nằm trong `report/`; đã commit, push và nộp link repository trên VLearn.
