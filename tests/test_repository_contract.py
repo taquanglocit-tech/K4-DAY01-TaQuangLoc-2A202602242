@@ -92,7 +92,9 @@ class RepositoryContractTest(unittest.TestCase):
     def test_report_template_is_prepared_without_overwriting_student_work(self):
         self.assertIn("REPORT_TEMPLATE_ASSET", self.code_source)
         report_template_sha256 = hashlib.sha256(
-            (ROOT / "reports" / "REPORT_TEMPLATE.md").read_bytes()
+            (ROOT / "reports" / "REPORT_TEMPLATE.md")
+            .read_bytes()
+            .replace(b"\r\n", b"\n")
         ).hexdigest()
         self.assertIn(
             report_template_sha256,
