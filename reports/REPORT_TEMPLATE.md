@@ -64,12 +64,12 @@ Nguồn evidence: `segmentation_predictions.json` và `visuals/segmentation_pred
 
 ## 6. Danh sách bằng chứng
 
-- [ ] `classification_predictions.json`
-- [ ] `detection_predictions.json`
-- [ ] `segmentation_predictions.json`
-- [ ] `IMAGE_ATTRIBUTION.md`
-- [ ] `visuals/classification_top5.png`
-- [ ] `visuals/detection_predictions.png`
-- [ ] `visuals/segmentation_prediction.png`
+- [X] `classification_predictions.json`
+- [X] `detection_predictions.json`
+- [X] `segmentation_predictions.json`
+- [X] `IMAGE_ATTRIBUTION.md`
+- [X] `visuals/classification_top5.png`
+- [X] `visuals/detection_predictions.png`
+- [X] `visuals/segmentation_prediction.png`
 - [ ] Ô validation cuối notebook báo `PASS`.
-- [ ] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output.
+- [X] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output.
